@@ -2,19 +2,37 @@
 
 ## AWS Console Screenshots
 
-- IAM Users
-- MFA Configuration
-- Security Groups
-- S3 Bucket Settings
-- EC2 Configuration
+The following screenshots were collected as evidence during the assessment:
 
-## Prowler Evidence
+- IAM Users Configuration
+- Multi-Factor Authentication (MFA) Configuration
+- IAM Policy Assignments
+- Security Group Rules
+- Amazon S3 Bucket Configuration
+- Amazon EC2 Instance Configuration
+- Encryption Settings Review
+- CloudTrail and Monitoring Configuration
 
-- Scan execution
-- Findings report
-- Compliance results
+## Prowler Assessment Evidence
+
+Evidence collected from the Prowler security assessment includes:
+
+- Prowler Scan Execution
+- Security Findings Report
+- Compliance Check Results
+- Failed Security Controls
+- Risk Validation Results
 
 ## Architecture Evidence
 
-- Before remediation diagram
-- After remediation diagram
+The following architecture diagrams were developed as part of the assessment:
+
+- Current AWS Environment (Before Remediation)
+- Recommended Secure AWS Environment (After Remediation)
+
+## Supporting Documentation
+
+- AWS Security Assessment Report
+- Risk Analysis Matrix
+- Security Recommendations
+- Remediation Plan
