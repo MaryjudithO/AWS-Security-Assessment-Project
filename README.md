@@ -48,7 +48,6 @@ The assessment was conducted through:
 
 - Amazon Web Services (AWS)
 - Prowler
-- GitHub
 - Draw.io
 
 ## Key Findings
