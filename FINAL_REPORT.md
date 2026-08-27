@@ -71,7 +71,7 @@ Compromised credentials could result in full control of cloud resources.
 **Recommendation:**  
 Implement the principle of least privilege.
 
----
+
 
 ### Finding 3: Open Administrative Port (SSH)
 
@@ -86,7 +86,7 @@ Attackers may attempt unauthorized access through brute-force attacks.
 **Recommendation:**  
 Restrict SSH access to trusted IP addresses only.
 
--
+
 
 ### Finding 4: Publicly Accessible S3 Bucket
 
@@ -101,7 +101,7 @@ Sensitive information may be exposed to unauthorized parties.
 **Recommendation:**  
 Enable Block Public Access and review bucket policies.
 
----
+
 
 ### Finding 5: Missing Encryption Controls
 
@@ -116,7 +116,7 @@ Sensitive information may be exposed if storage resources are compromised.
 **Recommendation:**  
 Enable server-side encryption for all applicable storage services.
 
----
+
 
 ### Finding 6: Security Group Weaknesses
 
@@ -131,7 +131,7 @@ Unnecessary network exposure increases the attack surface.
 **Recommendation:**  
 Review and restrict inbound and outbound traffic rules.
 
----
+
 
 ## Risk Analysis
 
@@ -144,7 +144,7 @@ Review and restrict inbound and outbound traffic rules.
 | Missing Encryption | High |
 | Security Group Weaknesses | Medium |
 
----
+
 
 ## Security Recommendations
 
@@ -166,7 +166,7 @@ Review and restrict inbound and outbound traffic rules.
 - Implement continuous monitoring
 - Perform periodic compliance reviews
 
----
+
 
 ## Conclusion
 
@@ -174,11 +174,4 @@ The AWS security assessment identified several configuration weaknesses that cou
 
 Implementing the recommended remediation measures will significantly improve the security posture of the AWS environment and reduce overall business risk.
 
----
 
-## Author
-
-**Maryjudith Chidinma Ogunaka**
-
-Cloud Foundations Virtual Bootcamp  
-Cybersecurity Analyst Track
